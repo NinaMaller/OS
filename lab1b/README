@@ -1,0 +1,16 @@
+NAME: Nina Maller
+EMAIL: nina.maller@gmail.com
+SID: 604955977
+Slipdays: 5
+
+in this submission I have included 4 files:
+lab1b-client.c - the client code 
+lab1b-server.c - the server code
+Makefile - used to compile, make tar, and clean what the makefile did
+(and README)
+
+Sources used:
+Sockets tutorial given on spec-
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
+and the examples given in discussion.
+And a lot of stack overflow forums to debug.
