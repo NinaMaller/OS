@@ -1,0 +1,10 @@
+NAME: Nina Maller
+EMAIL: nina.maller@gmail.com
+ID: 604955977
+
+test cases I checked:
+1. The program works and exits successfuly
+2. All argumetns are specified correctly. Program successfuly
+catches the segfault and exits with code 4.
+3. Input file does not exit. Program exists with code 2
+4. Wrong option name. Program exists with code 1

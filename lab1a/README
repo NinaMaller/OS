@@ -1,0 +1,20 @@
+NAME: Nina Maller
+EMAIL: nina.maller@gmail.com
+SID: 604955977
+
+in this submission I have included 3 files:
+lab1a.c - where the c source code is located
+Makefile - used to compile, make tar, and clean what the makefile did
+README - this file
+
+
+Sources used:
+- I used the example code for noncanonical mode from chapter 17 in the GNU C manual.
+Link:
+https://www.gnu.org/software/libc/manual/html_node/Noncanon-Example.html#Noncanon-Example
+- I used the following link a an example of how to use fork()
+http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html 
+- examples of how to use pipe:
+http://tldp.org/LDP/lpg/node11.html
+- example of how to use poll and how to get the value of revents
+http://pubs.opengroup.org/onlinepubs/009695399/functions/poll.html
